@@ -1,0 +1,1 @@
+This repo contains two files, both containing its own method of solving the same problem. One uses the traditional AI to predict survival of passengers on the Titanic, which takes input as codes and output as 0 and 1. But for the predictive, running natively on Ubuntu (Ollama) takes in native langauge and gives output as explanations, not just results. 
